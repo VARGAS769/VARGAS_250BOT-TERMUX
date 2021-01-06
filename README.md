@@ -1,6 +1,6 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm VARGAS_250
 <p align="center">
-<img src="https://user-images.githubusercontent.com/75782855/103780473-949b6e80-5067-5067-11eb-826e-c7eebd439c36.jpg" width="230" height="230"/>
+<img src="https://user-images.githubusercontent.com/75782855/103780473-949b6e80-5067-11eb-826e-c7eebd439c36.jpg" width="230" height="230"/>
 </p>
 <br>
 
