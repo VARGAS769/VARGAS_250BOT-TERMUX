@@ -91,3 +91,4 @@ you've just cloned!!
 * [`WhatsApp`](https://chat.whatsapp.com/KLfjq8AK4Jz62Pqfz5sv0v)
 ### Donate
 * [`Saweria`](https://saweria.co/donate/mhankbarbar)
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
