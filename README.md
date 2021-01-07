@@ -96,7 +96,7 @@ you've just cloned!!
 ## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 * [`adiwajshing/Baileys`](https://github.com/adiwajshing/Baileys)
 
-## Group <img src."https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif
+## Group https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif
 * [`WhatsApp`](https://chat.whatsapp.com/KLfjq8AK4Jz62Pqfz5sv0v)
 
 
