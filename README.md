@@ -84,7 +84,7 @@ you've just cloned!!
 |       ✅        |   Broadcast                      |
 |       ✅        |   Clear All Chats                |
 
-## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
+### Donate <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
 * [`Donasi ðŸ‘¾AR15BOTðŸ‘¾`](https://saweria.co/aris187id)
 
 
@@ -98,6 +98,6 @@ you've just cloned!!
 
 ## Group
 * [`WhatsApp`](https://chat.whatsapp.com/KLfjq8AK4Jz62Pqfz5sv0v)
-### Donate
-* [`Saweria`](https://saweria.co/donate/mhankbarbar)
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
+
+
+
